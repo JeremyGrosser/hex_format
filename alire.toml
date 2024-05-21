@@ -1,0 +1,10 @@
+name = "hex_format"
+description = "Hexadecimal string formatting for modular types"
+version = "0.1.0-dev"
+
+authors = ["Jeremy Grosser"]
+maintainers = ["Jeremy Grosser <jeremy@synack.me>"]
+maintainers-logins = ["JeremyGrosser"]
+licenses = "BSD-3-Clause"
+website = "https://github.com/JeremyGrosser/hex_format"
+tags = ["hex", "pure", "embedded", "string", "text", "format"]
